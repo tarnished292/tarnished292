@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Susan  
+# 👋 Hey  
 
 I'm a **backend-focused Go developer** who enjoys designing and building reliable systems from the ground up.  
 I specialize in creating **scalable APIs, well-structured services, and clean database architectures** that are built for performance and long-term maintainability.
