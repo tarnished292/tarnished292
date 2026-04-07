@@ -1,20 +1,21 @@
-# 👋 Hey  
+# 👋Hey
 
-I'm a **backend-focused Go developer** who enjoys designing and building reliable systems from the ground up.  
-I specialize in creating **scalable APIs, well-structured services, and clean database architectures** that are built for performance and long-term maintainability.
+I work across the stack — building backend services, web apps, CLI tools,
+desktop apps, and whatever else the project needs.
 
-While I can work across the stack when needed, my primary focus is **backend engineering, system design, and writing efficient Go code**.  
-Most of my learning comes from building real-world projects and solving practical engineering problems.
+I focus on understanding systems properly rather than just getting things to work.
+Most of what I know comes from building real things and figuring it out along the way.
 
 ---
 
-## 🌐 Connect  
+## Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susan.dev291@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+## Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -22,15 +23,14 @@ Most of my learning comes from building real-world projects and solving practica
 
 ---
 
-## 🎯 What I Value
-- Building backend systems **from scratch**
-- Writing clean, maintainable Go code
-- Designing scalable APIs and services
-- Structuring databases that scale without becoming messy
-- Keeping architecture simple, predictable, and efficient
+## What I Work On
+- Backend services and system design in Go
+- Web applications and interfaces with React
+- CLI tools, desktop apps, and full websites
+- Database design built to stay maintainable over time
 
 ---
 
 <p align="center">
-  <sub>Backend-focused. Go-driven. Built through hands-on engineering.</sub>
+  <sub>Building reliable software, one layer at a time.</sub>
 </p>
