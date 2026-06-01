@@ -1,4 +1,4 @@
-# Hey
+# 👋Hey
 
 I work across the stack — building backend services, web apps, CLI tools,
 desktop apps, and whatever else the project needs.
