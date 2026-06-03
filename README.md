@@ -23,11 +23,8 @@ Most of what I know comes from building real things and figuring it out along th
 
 ---
 
-## What I Work On
-- Backend services and system design in Go
-- Web applications and interfaces with React
-- CLI tools, desktop apps, and full websites
-- Database design built to stay maintainable over time
+Building software that lasts longer than the latest JavaScript trend.
+Mostly working with Go, Rust, MCP and the occasional frontend when nobody else volunteers.
 
 ---
 
