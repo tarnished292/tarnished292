@@ -24,7 +24,7 @@ Most of what I know comes from building real things and figuring it out along th
 ---
 
 Building software that lasts longer than the latest JavaScript trend.
-Mostly working with Go, Rust, MCP and the occasional frontend when nobody else volunteers.
+Mostly working with Rust, and the occasional frontend when nobody else volunteers.
 
 ---
 
